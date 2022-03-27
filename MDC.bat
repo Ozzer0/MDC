@@ -23,6 +23,7 @@ mkdir tags
 cd tags
 mkdir blocks
 mkdir entity_types
+mkdir predicates
 mkdir fluids
 mkdir functions
 mkdir items
